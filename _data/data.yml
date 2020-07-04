@@ -139,8 +139,8 @@ skills:
   title: Skills &amp; Proeficiência
   toolset:
     - name: Kafka
-      level: 60%
 
+      # level: 60%
     - name: Spark
       level: 60%
 
@@ -161,6 +161,3 @@ skills:
 
     - name: Javascript
       level: 85%
-
-footer: >
-  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
