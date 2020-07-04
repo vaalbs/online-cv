@@ -166,7 +166,7 @@ projects:
 skills:
   title: Skills &amp; Proeficiência
   toolset:
-    - name: Kafka
+    - name: Kafka com Python
     # level: 60%
     - name: Spark
       # level: 60%
