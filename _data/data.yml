@@ -154,6 +154,12 @@ skills:
       # level: 65%
     - name: Javascript
       # level: 85%
+    - name: SQL Server
+
+    - name: PostgreSQL
+
+    - name: MySql
+
     - name: GitFlow
 
     - name: Kanban
