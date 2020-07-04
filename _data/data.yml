@@ -139,25 +139,23 @@ skills:
   title: Skills &amp; Proeficiência
   toolset:
     - name: Kafka
-
-      # level: 60%
+    # level: 60%
     - name: Spark
-      level: 60%
-
+      # level: 60%
     - name: Ecossistema Hadoop
-      level: 60%
-
+      # level: 60%
     - name: Python
-      level: 60%
-
+      # level: 60%
     - name: GrapQL
-      level: 80%
-
+      # level: 80%
     - name: Typescript
-      level: 75%
-
+      # level: 75%
     - name: React
-      level: 65%
-
+      # level: 65%
     - name: Javascript
-      level: 85%
+      # level: 85%
+    - name: GitFlow
+
+    - name: Kanban
+
+    - name: Scrum
