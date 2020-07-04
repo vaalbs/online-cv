@@ -7,9 +7,9 @@ site.data.data.sidebar.courses %}
 
   {% for course in courses %}
   <div class="item">
-    <h4 class="degree">{{ graduation.role }}</h4>
-    <h5 class="meta">{{ graduation.school }}</h5>
-    <div class="time">{{ graduation.time }}</div>
+    <h4 class="degree">{{ course.role }}</h4>
+    <h5 class="meta">{{ course.school }}</h5>
+    <div class="time">{{ course.time }}</div>
   </div>
   <!--//item-->
   {% endfor %}
