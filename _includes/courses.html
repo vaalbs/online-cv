@@ -7,9 +7,11 @@ site.data.data.sidebar.courses %}
 
   {% for course in courses %}
   <div class="item">
-    <h4 class="degree">{{ course.role }}</h4>
+    <h4 class="degree">{{ course.role }}aaa</h4>
     <h5 class="meta">{{ course.school }}</h5>
-    <div class="time">{{ course.time }}</div>
+    <div class="details">
+      <a href="{{ course.link }}" target="_blank">Ver certificado</a>
+    </div>
   </div>
   <!--//item-->
   {% endfor %}
@@ -29,15 +31,11 @@ site.data.data.sidebar.courses %}
   <div class="item">
     <div class="meta">
       <div class="upper-row">
-        <h3 class="degree">{{ course.role }}aa</h3>
-        <div class="time">{{ course.time }}</div>
+        <h3 class="degree">{{ course.role }}</h3>
       </div>
       <!--//upper-row-->
 
       <div class="university">{{ course.school }}</div>
-      <div class="details">
-        <a href="{{ course.link }}" target="_blank">Ver certificado</a>
-      </div>
     </div>
     <!--//meta-->
 
