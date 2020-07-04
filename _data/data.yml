@@ -31,7 +31,8 @@ sidebar:
     - item: Viagens
       link:
 
-formação:
+education:
+  title: Formação
   - degree: Análise e Desenvolvimento de Sistemas
     university: ETEP - Faculdade Técnica Professor Everardo Passos
     time: 2013 - 2015
@@ -40,7 +41,8 @@ formação:
     university: ETEP - Escola Técnica Professor Everardo Passos
     time: 2010 - 2012
     details:
-experiências:
+experiences:
+  title: Experiências
   - role: Desenvolvedora Front End
     time: 2019 - Atual
     company: Cubos Tecnologia
@@ -105,7 +107,6 @@ projects:
 
 skills:
   title: Skills &amp; Proeficiência
-
   toolset:
     - name: Kafka
       level: 60%
