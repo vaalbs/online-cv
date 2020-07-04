@@ -258,8 +258,8 @@ p {
     height: 12px;
   }
   .level-bar-inner {
-    height: 12px;
-    background: lighten($theme-color, 15%);
+    // height: 12px;
+    // background: lighten($theme-color, 15%);
   }
   .level-bar-inner:before {
     content: "✓";
