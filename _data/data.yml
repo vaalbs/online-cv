@@ -31,7 +31,7 @@ sidebar:
     - item: Viagens
       link:
 
-career-profile:
+descrição:
   title: Career Profile
   summary: |
     Summarise your career here lorem ipsum dolor sit amet, consectetuer
@@ -40,7 +40,7 @@ career-profile:
     penatibus et magnis dis parturient montes, nascetur ridiculus mus.
     Donec quam felis, ultricies nec, pellentesque eu.
     Second paragraph if required.
-education:
+formação:
   - degree: Análise e Desenvolvimento de Sistemas
     university: ETEP - Faculdade Técnica Professor Everardo Passos
     time: 2013 - 2015
@@ -49,7 +49,7 @@ education:
     university: ETEP - Escola Técnica Professor Everardo Passos
     time: 2010 - 2012
     details:
-experiences:
+experiências:
   - role: Desenvolvedora Front End
     time: 2019 - Atual
     company: Cubos Tecnologia
@@ -96,75 +96,49 @@ experiences:
         - Bullet point
         - Bullet point
 projects:
-  title: Projects
+  title: Projetos
   intro: >
-    You can list your side projects or open source libraries in this
-    section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    Principais projetos que participei na Cubos Tecnologia
   assignments:
-    - title: Velocity
-      link: "#hook"
-      tagline: "A responsive website template designed to help startups promote, market and sell their products."
+    - title: Eatiz
+      link: "https://www.eatiz.app/"
+      tagline: "Sistema de delivery com a marca do seu negócio. O cliente acessa o site do seu negócio e faz os pedidos diretamente com a possibilidade de pagamento online. Tudo é controlado por um gestor e integrado com os principais marketplaces de delivery."
 
-    - title: DevStudio
-      link: "#"
-      tagline: "A responsive website template designed to help web developers/designers market their services."
+    - title: BBNK
+      link: "https://bbnk.com.br/"
+      tagline: "O BBNK é a primeira plataforma white label de banking no Brasil. Com o BBNK, qualquer empresa pode oferecer soluções financeiras digitais, com o reconhecimento e credibilidade da sua marca, diretamente a clientes, fornecedores, prestadores de serviço, funcionários e todo o seu círculo de relacionamento."
 
-    - title: Tempo
-      link: "#"
-      tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-    - title: Atom
-      link: "#"
-      tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-    - title: Delta
-      link: "#"
-      tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-  title: Publications
-  intro: |
-    You can list your publications in this section. Lorem ipsum dolor sit
-    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-    bibendum fringilla a eu lectus.
-  papers:
-    - title: The Art of Computer Programming
-      link: "#"
-      authors: Donald E. Knuth
-      conference: Addison-Wesley, 1968
-
-    - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-      link: "#"
-      authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-      conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-    - title: A syntax directed compiler for Algol 60
-      link: "#"
-      authors: Edgar T. Irons
-      conference: "Comm. ACM 4 (1961), 51–55"
+    - title: Amigo Edu
+      link: "https://amigoedu.com.br/"
+      tagline: "Site que reúne vagas em diversas faculdades de todo o país."
 
 skills:
-  title: Skills &amp; Proficiency
+  title: Skills &amp; Proeficiência
 
   toolset:
-    - name: Python & Django
-      level: 98%
-
-    - name: Javascript & jQuery
-      level: 98%
-
-    - name: Angular
-      level: 98%
-
-    - name: HTML5 & CSS
-      level: 95%
-
-    - name: Ruby on Rails
-      level: 85%
-
-    - name: Sketch & Photoshop
+    - name: Kafka
       level: 60%
+
+    - name: Spark
+      level: 60%
+
+    - name: Ecossistema Hadoop
+      level: 60%
+
+    - name: Python
+      level: 60%
+
+    - name: GrapQL
+      level: 80%
+
+    - name: Typescript
+      level: 75%
+
+    - name: React
+      level: 65%
+
+    - name: Javascript
+      level: 85%
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
