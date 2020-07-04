@@ -69,7 +69,7 @@ experiences:
     company: Click Interativo
     details: |
       A Click Interativo é uma agência digital de Salvador, com soluções de marketing  e comunicação que oferece ao mercado estratégias e ações bem elaboradas e referenciadas por inteligência. 
-      
+
       Responsável pelo desenvolvimento de sites e sistemas web utilizando:
         - Javascript
         - ColdFusion
@@ -81,13 +81,17 @@ experiences:
     company: Beeders
     details: |
       A Beeders é uma Plataforma de Software Customizado.
+
+      Responsável pelo desenvolvimento de sites e sistemas web utilizando:
         - PugJs
         - LESS
   - role: Desenvolvedora Full Stack
     time: 12/2016 - 04/2017
     company: Link3 Tecnologia
     details: |
-      A Link3 é uma empresa especializada em Sistemas de Informação para Administração Pública
+      A Link3 é uma empresa especializada em Sistemas de Informação para Administração Pública.
+
+      Responsável pelo desenvolvimento de sites e sistemas web utilizando:
         - ExtJs
         - Java
         - MySql
@@ -97,19 +101,23 @@ experiences:
     company: INDRA
     details: |
       A Indra é a multinacional de Consultoria e Tecnologia líder na Espanha e América Latina. É a segunda empresa europeia em capitalização do seu setor e a segunda empresa espanhola que mais investe em P&D. 
+
+      Responsável pelo desenvolvimento de sites e sistemas web utilizando:
         - Java
         - PostgreSQL
         - HTML5
         - CSS3
-    - role: Desenvolvedora Web - Estágio
-      time: 08/2013 - 09/2015
-      company: INPE - Instituto Nacional de Pesquisas Espaciais
-      details: |
-        Instituto Nacional de Pesquisas Espaciais é um instituto federal brasileiro dedicado à pesquisa e exploração espacial, criado em 1961.
-          - PHP
-          - PostgreSQL
-          - HTML5
-          - CSS3
+  - role: Desenvolvedora Web - Estágio
+    time: 08/2013 - 09/2015
+    company: INPE - Instituto Nacional de Pesquisas Espaciais
+    details: |
+      Instituto Nacional de Pesquisas Espaciais é um instituto federal brasileiro dedicado à pesquisa e exploração espacial, criado em 1961.
+
+      Responsável pelo desenvolvimento de sites e sistemas web utilizando:
+        - PHP
+        - PostgreSQL
+        - HTML5
+        - CSS3
 projects:
   title: Projetos
   intro: >
