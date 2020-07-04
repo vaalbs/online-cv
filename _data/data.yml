@@ -42,7 +42,7 @@ education:
     details:
 experiences:
   - role: Desenvolvedora Front End
-    time: 2019 - Atual
+    time: 09/2019 - Atual
     company: Cubos Tecnologia
     details: |
       Desenvolvimento de sistemas web utilizando:
@@ -64,28 +64,52 @@ experiences:
         - GrapQL
         - Typescript
         - LESS
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
+  - role: Desenvolvedora Full Stack
+    time: 05/2018 - 09/2019
+    company: Click Interativo
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - role: UI Developer
-    time: 2012 - 2014
-    company: Amazon, London
+      A Click Interativo é uma agência digital de Salvador, com soluções de marketing  e comunicação que oferece ao mercado estratégias e ações bem elaboradas e referenciadas por inteligência. 
+      
+      Responsável pelo desenvolvimento de sites e sistemas web utilizando:
+        - Javascript
+        - ColdFusion
+        - MySql
+        - HTML5
+        - LESS
+  - role: Desenvolvedora Full Stack - Freelancer
+    time: 08/2018 - 01/2019
+    company: Beeders
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      A Beeders é uma Plataforma de Software Customizado.
+        - PugJs
+        - LESS
+  - role: Desenvolvedora Full Stack
+    time: 12/2016 - 04/2017
+    company: Link3 Tecnologia
+    details: |
+      A Link3 é uma empresa especializada em Sistemas de Informação para Administração Pública
+        - ExtJs
+        - Java
+        - MySql
+        - LESS
+  - role: Desenvolvedora Junior
+    time: 09/2015 - 09/2016
+    company: INDRA
+    details: |
+      A Indra é a multinacional de Consultoria e Tecnologia líder na Espanha e América Latina. É a segunda empresa europeia em capitalização do seu setor e a segunda empresa espanhola que mais investe em P&D. 
+        - Java
+        - PostgreSQL
+        - HTML5
+        - CSS3
+    - role: Desenvolvedora Web - Estágio
+      time: 08/2013 - 09/2015
+      company: INPE - Instituto Nacional de Pesquisas Espaciais
+      details: |
+        Instituto Nacional de Pesquisas Espaciais é um instituto federal brasileiro dedicado à pesquisa e exploração espacial, criado em 1961.
+          - PHP
+          - PostgreSQL
+          - HTML5
+          - CSS3
 projects:
   title: Projetos
   intro: >
