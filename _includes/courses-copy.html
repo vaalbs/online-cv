@@ -1,0 +1,35 @@
+{% assign courses = site.data.data.courses %} {% if courses %}
+<section class="section experiences-section">
+  <h2 class="section-title">
+    <span class="fa-stack fa-xs">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fas fa-archive fa-stack-1x fa-inverse"></i>
+    </span>
+    Cursos
+  </h2>
+
+  {% for course in courses %}
+  <div class="item">
+    <div class="meta">
+      <div class="upper-row">
+        <h3 class="job-title">{{ course.role }}</h3>
+        <div class="time">{{ course.time }}</div>
+      </div>
+      <!--//upper-row-->
+
+      <div class="company">{{ course.school }}</div>
+    </div>
+    <!--//meta-->
+
+    {% if course.link %}
+    <div class="details">
+      <a href="{{ course.link }}" target="_blank">Ver certificado</a>
+    </div>
+    <!--//details-->
+    {% endif %}
+  </div>
+  <!--//item-->
+  {% endfor %}
+</section>
+<!--//section-->
+{% endif %}

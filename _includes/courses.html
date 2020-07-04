@@ -1,23 +1,40 @@
-{% assign courses = site.data.data.courses %} {% if courses %}
-<section class="section experiences-section">
+{% assign courses = site.data.data.courses %} {% if courses %} {% if
+site.data.data.sidebar.courses %}
+<div class="education-container container-block">
+  <h2 class="container-block-title">
+    Cursos
+  </h2>
+
+  {% for course in courses %}
+  <div class="item">
+    <h4 class="degree">{{ graduation.role }}</h4>
+    <h5 class="meta">{{ graduation.school }}</h5>
+    <div class="time">{{ graduation.time }}</div>
+  </div>
+  <!--//item-->
+  {% endfor %}
+</div>
+<!--//education-container-->
+{% else %}
+<section class="section educations-section">
   <h2 class="section-title">
     <span class="fa-stack fa-xs">
       <i class="fas fa-circle fa-stack-2x"></i>
-      <i class="fas fa-archive fa-stack-1x fa-inverse"></i>
+      <i class="fas fa-graduation-cap fa-stack-1x fa-inverse"></i>
     </span>
-    Cursos
+    Formação
   </h2>
 
   {% for course in courses %}
   <div class="item">
     <div class="meta">
       <div class="upper-row">
-        <h3 class="job-title">{{ course.role }}</h3>
+        <h3 class="degree">{{ course.role }}</h3>
         <div class="time">{{ course.time }}</div>
       </div>
       <!--//upper-row-->
 
-      <div class="company">{{ course.school }}</div>
+      <div class="university">{{ course.school }}</div>
     </div>
     <!--//meta-->
 
@@ -32,4 +49,4 @@
   {% endfor %}
 </section>
 <!--//section-->
-{% endif %}
+{% endif %} {% endif %}
