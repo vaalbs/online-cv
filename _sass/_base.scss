@@ -246,6 +246,7 @@ p {
 
 .skillset {
   display: grid;
+  grid-gap: 12px;
   grid-template-columns: repeat(2, 1fr);
   .item {
     display: flex;
