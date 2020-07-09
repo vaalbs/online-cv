@@ -168,27 +168,19 @@ projects:
 skills:
   title: Skills &amp; Proeficiência
   toolset:
-    - name: Kafka com Python
+    - name: Kafka, Apache Flume
 
     - name: Spark
       # level: 60%
     - name: Ecossistema Hadoop
 
-    - name: Apache Flume
-
     - name: Apache Flink
+
+    - name: Apache Drill, Apache Phoenix, Presto
       # level: 60%
     - name: Python
       # level: 60%
-    - name: Cassandra
-
-    - name: MongoDB
-
-    - name: SQL Server
-
-    - name: PostgreSQL
-
-    - name: MySql
+    - name: Cassandra, MongoDB, SQL Server, PostgreSQL, MySql
 
     - name: GraphQL
       # level: 80%
