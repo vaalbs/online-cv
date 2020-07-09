@@ -176,6 +176,10 @@ skills:
       # level: 60%
     - name: Python
       # level: 60%
+    - name: Cassandra
+
+    - name: MongoDB
+
     - name: SQL Server
 
     - name: PostgreSQL
