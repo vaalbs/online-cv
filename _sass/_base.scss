@@ -266,17 +266,17 @@ p {
     // height: 12px;
     // background: lighten($theme-color, 15%);
   }
-  .level-bar-inner:before {
-    content: "✓";
-    display: inline-block;
-    vertical-align: top;
-    line-height: 1em;
-    width: 1em;
-    height: 1em;
-    margin-right: 0.3em;
-    text-align: center;
-    color: #55ce00;
-  }
+  // .level-bar-inner:before {
+  //   content: "✓";
+  //   display: inline-block;
+  //   vertical-align: top;
+  //   line-height: 1em;
+  //   width: 1em;
+  //   height: 1em;
+  //   margin-right: 0.3em;
+  //   text-align: center;
+  //   color: #55ce00;
+  // }
 }
 
 .footer {

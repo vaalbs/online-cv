@@ -169,10 +169,14 @@ skills:
   title: Skills &amp; Proeficiência
   toolset:
     - name: Kafka com Python
-    # level: 60%
+
     - name: Spark
       # level: 60%
     - name: Ecossistema Hadoop
+
+    - name: Apache Flume
+
+    - name: Apache Flink
       # level: 60%
     - name: Python
       # level: 60%
