@@ -44,7 +44,9 @@ education:
     time: 2010 - 2012
     details:
 courses:
-  - role: Treinamento de Data Engineering no Databrick
+  - role: Data Engineering no Confluent [Apache Kafka]
+    school: One Way Solution
+  - role: Treinamento de Data Engineering no Databricks
     school: One Way Solution
   - role: Spark and Python for Big Data with PySpark
     school: Udemy
