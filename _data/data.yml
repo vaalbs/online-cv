@@ -179,8 +179,6 @@ skills:
 
     - name: Apache Flume
 
-    - name: Apache Flink
-
     - name: Apache Drill
 
     - name: Apache Phoenix
