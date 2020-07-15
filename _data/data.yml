@@ -48,6 +48,9 @@ courses:
     school: One Way Solution
   - role: Treinamento de Data Engineering no Databricks
     school: One Way Solution
+  - role: The Ultimate Hands-On Hadoop - Tame your Big Data!
+    school: Udemy
+    link: "https://www.udemy.com/certificate/UC-953ec28c-022c-413f-85cf-2c9ae853747c/"
   - role: Spark and Python for Big Data with PySpark
     school: Udemy
     link: "https://www.udemy.com/certificate/UC-a07fd84c-cf77-4f33-bb2b-1cc7fa3d02e9/"
