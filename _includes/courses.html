@@ -9,9 +9,11 @@ site.data.data.sidebar.courses %}
   <div class="item">
     <h4 class="degree">{{ course.role }}</h4>
     <h5 class="meta">{{ course.school }}</h5>
+    {% if course.link %}
     <div class="details">
       <a href="{{ course.link }}" target="_blank">Ver certificado</a>
     </div>
+    {% endif %}
   </div>
   <!--//item-->
   {% endfor %}
