@@ -44,6 +44,10 @@ education:
     time: 2010 - 2012
     details:
 courses:
+  - role: Aceleração Global Dev 4 - Everis
+    school: Digital Innovation
+  - role: Data Engineer Nanodegree
+    school: Udacity
   - role: Data Engineering no Confluent [Apache Kafka]
     school: One Way Solution
   - role: Treinamento de Data Engineering no Databricks
@@ -78,6 +82,17 @@ courses:
 experiences:
   - role: Desenvolvedora Front End
     time: 09/2019 - Atual
+    company: Stone
+    details: |
+      Desenvolvimento de sistemas web utilizando:
+        - React
+        - Typescript
+        - Next.js
+        - Jest
+        - Styled Component
+
+  - role: Desenvolvedora Front End
+    time: 09/2019 - 09/2020
     company: Cubos Tecnologia
     details: |
       A Cubos cria tecnologia com significado, tendo um desejo pujante de criar, impactar, aprender e causar uma diferença significativa na vida das pessoas por meio da tecnologia.
