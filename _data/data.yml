@@ -24,15 +24,15 @@ sidebar:
     - idiom: Inglês
       level: Avançado
 
-  interests:
-    - item: Investimentos (Ações, Fundos Imobiliários e Tesouro Direto)
-      link:
+  # interests:
+  #   - item: Investimentos (Ações, Fundos Imobiliários e Tesouro Direto)
+  #     link:
 
-    - item: Kitesurf
-      link:
+  #   - item: Kitesurf
+  #     link:
 
-    - item: Viagens
-      link:
+  #   - item: Viagens
+  #     link:
 
 education:
   - degree: Análise e Desenvolvimento de Sistemas
@@ -125,7 +125,7 @@ experiences:
       Responsável pelo gerenciamento de projetos e equipes e desenvolvimento de sites e sistemas web utilizando:
         - Javascript
         - ColdFusion
-        - MySql
+        - MySQL
         - HTML5
         - LESS
   - role: Desenvolvedora Full Stack - Freelancer
@@ -146,7 +146,7 @@ experiences:
       Responsável pelo desenvolvimento de sites e sistemas web utilizando:
         - ExtJs
         - Java
-        - MySql
+        - MySQL
         - LESS
   - role: Desenvolvedora Junior
     time: 09/2015 - 09/2016
@@ -214,7 +214,7 @@ skills:
 
     - name: PostgreSQL
 
-    - name: MySql
+    - name: MySQL
 
     - name: GraphQL
       # level: 80%
