@@ -80,7 +80,7 @@ courses:
     school: Alura
     link: "https://cursos.alura.com.br/certificate/be9b4538-5725-4aff-9a6f-5eb1770b1ee2"
 experiences:
-  - role: Desenvolvedora Front End
+  - role: Desenvolvedora Front-End
     time: 09/2020 - Atual
     company: Stone
     details: |
@@ -89,9 +89,9 @@ experiences:
         - Typescript
         - Next.js
         - Jest
-        - Styled Component
+        - Styled Components
 
-  - role: Desenvolvedora Front End
+  - role: Desenvolvedora Front-End
     time: 09/2019 - 09/2020
     company: Cubos Tecnologia
     details: |
@@ -109,7 +109,7 @@ experiences:
         - React
         - MobX
         - Typescript
-        - SASS
+        - Styled Components
 
       Amigo Edu:
         - React
@@ -196,11 +196,11 @@ skills:
       # level: 60%
     - name: Ecossistema Hadoop
 
-    - name: Apache Flume
+    - name: Flume
 
-    - name: Apache Drill
+    - name: Drill
 
-    - name: Apache Phoenix
+    - name: Phoenix
 
     - name: Presto
       # level: 60%
